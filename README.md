@@ -1,4 +1,4 @@
-## 👋 Meet Our Team hi 
+## 👋 Meet Our Team
 
 > The creative minds behind **Green & White** 🌾💡
 
