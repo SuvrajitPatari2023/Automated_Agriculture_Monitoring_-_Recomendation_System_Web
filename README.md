@@ -1,6 +1,8 @@
 # Welcome to our project
 
 ## Project info
+> A smart farming solution powered by **IoT**, **AI**, and **Machine Learning** to make agriculture more efficient, sustainable, and profitable 🌱
+
 
 **URL**: ----
 
